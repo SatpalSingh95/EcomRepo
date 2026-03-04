@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	System.out.println("fifth test");
 	System.out.println("sixth commit");
 	System.out.println("7th commit");
+	System.out.println("8th commit");
 }
 }
 
